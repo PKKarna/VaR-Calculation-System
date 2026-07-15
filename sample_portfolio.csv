@@ -1,0 +1,7 @@
+ticker,quantity,asset_class,trade_price,currency
+AAPL,150,Equity,182.50,USD
+MSFT,80,Equity,410.20,USD
+JPM,200,Equity,195.30,USD
+XOM,300,Equity,112.75,USD
+EURUSD=X,50000,FX,1.0850,USD
+GBPUSD=X,-30000,FX,1.2700,USD
